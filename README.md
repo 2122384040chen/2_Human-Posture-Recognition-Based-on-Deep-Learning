@@ -72,3 +72,8 @@ python train1.py
 3. 默认使用ResNet34架构
 
 ###需要完整项目请联系qq：2122384040
+
+
+![2db5faa454b342d5def0c3e4404939ff](https://github.com/user-attachments/assets/724d2110-7431-43a5-b050-4aa49eecb6db)
+
+
